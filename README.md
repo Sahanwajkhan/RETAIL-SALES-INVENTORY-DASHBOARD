@@ -38,11 +38,6 @@ The dashboard helps analyze:
 
 ---
 
-## 🎥 Project Demo Video
-Paste your YouTube video link here
-
----
-
 ## 📁 Dataset Files
 The repository also contains retail dataset CSV files and SQL queries used for analysis.
 
